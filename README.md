@@ -28,8 +28,6 @@ Run the Spring Boot application.
 Access the API endpoints to interact with the data.
 
 Project Structure
-lua
-Copy code
 |-- src
 |   |-- main
 |       |-- java
@@ -38,10 +36,14 @@ Copy code
 |               |-- student
 |                   |-- Student.java
 |                   |-- StudentController.java
+|                   |-- StudentRepository.java
+|                   |-- StudentService.java
 |-- resources
 |   |-- application.properties
 |-- .gitignore
 |-- README.md
+
+
 API Endpoints
 GET /api/v1/student: Get a list of all students.
 POST /api/v1/student/addDefault: Add a default student to the database.
