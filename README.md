@@ -18,7 +18,7 @@ This is a Spring Boot project demonstrating a simple database exercise with a `S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/database-exercise.git
+   git clone https://github.com/your-username/database-exercise.git](https://github.com/seyedali-rafazi/Java-database-exe2.git
 Open the project in your IDE.
 
 Set up your database configuration in application.properties or application.yml.
