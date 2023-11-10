@@ -27,21 +27,21 @@ Run the Spring Boot application.
 
 Access the API endpoints to interact with the data.
 
-Project Structure
-|-- src
-|   |-- main
-|       |-- java
-|           |-- com.example.database.exercise
-|               |-- DatabaseExerciseApplication.java
-|               |-- student
-|                   |-- Student.java
-|                   |-- StudentController.java
-|                   |-- StudentRepository.java
-|                   |-- StudentService.java
-|-- resources
-|   |-- application.properties
-|-- .gitignore
-|-- README.md
+## Project Structure
+
+- **src**
+  - **main**
+    - **java**
+      - **com.example.database.exercise**
+        - `DatabaseExerciseApplication.java`
+        - **student**
+          - `Student.java`
+          - `StudentController.java`
+- **resources**
+  - `application.properties`
+- `.gitignore`
+- `README.md`
+
 
 
 API Endpoints
